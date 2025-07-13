@@ -5,3 +5,5 @@ git commit -m "added the file main.py"
 git remote add origin https://
 git remote set-url origin https://
 git push origin master/main
+
+some new changes
