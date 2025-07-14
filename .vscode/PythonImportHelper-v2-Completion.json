@@ -1,0 +1,11 @@
+[
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "myfunc",
+        "description": "myfunc",
+        "peekOfCode": "def test():\n    a =5\n    c =w\n    l = f+g\n    return m\ntest2()",
+        "detail": "myfunc",
+        "documentation": {}
+    }
+]
