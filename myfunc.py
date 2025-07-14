@@ -1,4 +1,6 @@
-SECRET_KEY='pankaj'
+SECRET_KEY = "mysecret"
+
+
 def test():
 
     a = 5
